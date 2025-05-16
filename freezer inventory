@@ -1,0 +1,16 @@
+freezer-inventory/
+├── public/
+│   └── index.html
+├── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── components/
+│       ├── FreezerSelection.jsx
+│       ├── Freezer20.jsx
+│       ├── Freezer4.jsx
+│       ├── FreezerMinus80.jsx
+│       ├── Dumbledore.jsx
+│       └── GoBackButton.jsx
+├── package.json
+├── vite.config.js
+└── README.md
